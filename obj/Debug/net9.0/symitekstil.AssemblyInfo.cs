@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("symitekstil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72fe2b6fa828df8af8c336327811f5dd7361be7")]
 [assembly: System.Reflection.AssemblyProductAttribute("symitekstil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("symitekstil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
